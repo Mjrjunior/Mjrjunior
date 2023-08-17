@@ -4,7 +4,7 @@
 
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjrjunior&show_icons=true&theme=radical)
 
-### Tecnologias que utilizo no meu dia:
+### Tecnologias que utilizo no meu dia a dia:
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
@@ -16,4 +16,5 @@
   <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindCSS">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgress">
   <img align="center" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress">
+  <img align="center" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium">
 </div>
