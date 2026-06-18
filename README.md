@@ -8,7 +8,7 @@ Atualmente trabalho principalmente com **Node.js, TypeScript, NestJS, React, Rea
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - Desenvolvedor Full Stack com experiência em aplicações web e mobile
 - Foco atual em Back-end com Node.js, NestJS, TypeScript e PostgreSQL
@@ -56,22 +56,3 @@ Atualmente trabalho principalmente com **Node.js, TypeScript, NestJS, React, Rea
 </div>
 
 ---
-
-### 📌 Experiências e interesses técnicos
-
-```ts
-const marcondes = {
-  role: "Full Stack Developer",
-  focus: ["Back-end", "APIs REST", "Arquitetura", "Performance"],
-  mainStack: ["Node.js", "TypeScript", "NestJS", "React", "React Native"],
-  database: ["PostgreSQL"],
-  infra: ["Docker", "Linux", "VPS", "Cloudflare", "CI/CD"],
-  currentlyStudying: [
-    "Arquitetura de Software",
-    "DDD",
-    "Clean Architecture",
-    "Testes automatizados",
-    "Escalabilidade",
-    "Cloud"
-  ]
-}
